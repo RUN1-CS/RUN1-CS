@@ -38,7 +38,13 @@ Connect with me, follow my work, and join me on my coding journey:
 
 ## ⚡ Stats
 
-![RUN1's GitHub stats](https://github-readme-stats.vercel.app/api?username=run1-cs&show_icons=true&theme=tokyonight)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=run1-cs&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=run1-cs&show_icons=true" />
+</picture>
 
 ## 💻 Skills & Tech Stack
 
