@@ -46,9 +46,11 @@ Connect with me, follow my work, and join me on my coding journey:
   <img src="https://github-readme-stats.vercel.app/api?username=run1-cs&show_icons=true" />
 </picture>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RUN1-
+
 ## 💻 Skills & Tech Stack
 
-* **Backend:** PHP, PostgreSQL
+* **Backend:** PHP, PostgreSQL, Node.js
 * **Frontend:** JavaScript, CSS, HTML
 * **DevOps & Deployment:** Docker, Docker Compose, Linux
 * **Projects:** Full-stack apps, dashboards, automation, and AI integrations
