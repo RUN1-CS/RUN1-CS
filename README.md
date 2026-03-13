@@ -46,7 +46,7 @@ Connect with me, follow my work, and join me on my coding journey:
   <img src="https://github-readme-stats.vercel.app/api?username=run1-cs&show_icons=true" />
 </picture>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RUN1-)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RUN1-CS)
 
 ## 💻 Skills & Tech Stack
 
